@@ -340,3 +340,7 @@ ASALocalRun/
 healthchecksdb
 /LB_1/LB_1.vcxproj.filters
 /LB_1/LB_1.vcxproj
+/rand_srand/rand_srand.vcxproj
+/rand_srand/rand_srand.vcxproj.filters
+/Rand Srand/Rand Srand.vcxproj
+/Rand Srand/Rand Srand.vcxproj.filters
